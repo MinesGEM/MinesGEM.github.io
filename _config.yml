@@ -79,11 +79,11 @@ analytics:
 # Site Author
 author:
   name             : "GEM Lab"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  avatar           : "TempLogo.jpg"
+  bio              : "Bringing geochemistry, microbiology, and engineering together!"
+  location         : "Golden, CO"
+  employer         : "Colorado School of Mines"
+  googlescholar    : 
   email            :
   uri              :
   bitbucket        :
@@ -98,13 +98,13 @@ author:
   instagram        :
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : 
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
