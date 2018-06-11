@@ -7,11 +7,8 @@
 
 # Site Settings
 locale                   : "en-US"
-<<<<<<< HEAD
 title                    : "GEM Lab WOW"
 =======
-title                    : "GEM Lab is Awesome"
->>>>>>> a9fc2965ad7a46280c2b6713ce8dcdde448fb011
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
