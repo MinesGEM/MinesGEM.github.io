@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "GEM Lab"
+title                    : "GEM Lab is Awesome"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
