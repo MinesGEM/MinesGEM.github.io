@@ -8,7 +8,6 @@
 # Site Settings
 locale                   : "en-US"
 title                    : "Geo-Environmental Microbiology Lab"
-=======
 title_separator          : "-"
 name                     : &name "GEM Lab"
 description              : &description "Bringing geochemistry, microbiology, and engineering together!"
