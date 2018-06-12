@@ -23,6 +23,10 @@ redirect_from:
     </a>
 </div>
 
+<<<<<<< HEAD
 <script src="/js/blueimp-gallery.min.js"></script>
 </body>
 </html>
+=======
+<script src="/js/blueimp-gallery.min.js"></script>
+>>>>>>> parent of 7973cbb... GalleryFix
