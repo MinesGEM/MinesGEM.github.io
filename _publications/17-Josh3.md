@@ -1,0 +1,13 @@
+---
+title: "Biologically active filtration for fracturing flowback and produced water treatment"
+collection: publications
+permalink: /publication/8/1/17-Josh3
+date: 8/1/17
+venue: 'J. of Water Process Eng.'
+paperurl: 'http://dx.doi.org/10.1016/j.jwpe.2017.05.008'
+citation: 'Freedman DE, Riley SM, Jones ZJ, Rosenblum JS, Sharp JS, Spear JR, Cath TY. (2017) Biologically active filtration for fracturing flowback and produced water treatment.  J. of Water Process Eng. 18:29-40 http://dx.doi.org/10.1016/j.jwpe.2017.05.008 '
+---
+
+<a href='http://dx.doi.org/10.1016/j.jwpe.2017.05.008'>Download paper here</a>
+
+Recommended citation: Freedman DE, Riley SM, Jones ZJ, Rosenblum JS, Sharp JS, Spear JR, Cath TY. (2017) Biologically active filtration for fracturing flowback and produced water treatment.  J. of Water Process Eng. 18:29-40 http://dx.doi.org/10.1016/j.jwpe.2017.05.008 
