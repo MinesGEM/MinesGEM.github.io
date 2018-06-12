@@ -5,9 +5,12 @@ author_profile: true
 redirect_from: 
   - /md/
 ---
-
+<html>
+<head>
 <link rel="stylesheet" href="/css/blueimp-gallery.min.css">
+</head>
 
+<body>
 <!-- The Gallery as lightbox dialog, should be a child element of the document body -->
 <div id="blueimp-gallery" class="blueimp-gallery">
     <div class="slides"></div>
@@ -50,3 +53,4 @@ document.getElementById('links').onclick = function (event) {
     blueimp.Gallery(links, options);
 };
 </script>
+</body>
