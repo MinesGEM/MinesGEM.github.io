@@ -20,14 +20,14 @@ redirect_from:
 </div>
 
 <div id="links">
-    <a href="images/3953273590_704e3899d5_m.jpg" title="Banana">
-        <img src="images/3953273590_704e3899d5_m.jpg" alt="Banana">
+    <a href="/images/3953273590_704e3899d5_m.jpg" title="Banana">
+        <img src="/images/3953273590_704e3899d5_m.jpg" alt="Banana">
     </a>
-    <a href="images/3953273590_704e3899d5_m.jpg" title="Apple">
-        <img src="images/3953273590_704e3899d5_m.jpg" alt="Apple">
+    <a href="/images/3953273590_704e3899d5_m.jpg" title="Apple">
+        <img src="/images/3953273590_704e3899d5_m.jpg" alt="Apple">
     </a>
-    <a href="images/3953273590_704e3899d5_m.jpg" title="Orange">
-        <img src="images/3953273590_704e3899d5_m.jpg" alt="Orange">
+    <a href="/images/3953273590_704e3899d5_m.jpg" title="Orange">
+        <img src="/images/3953273590_704e3899d5_m.jpg" alt="Orange">
     </a>
 </div>
 
