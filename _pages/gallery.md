@@ -6,20 +6,33 @@ redirect_from:
   - /pictures/
 ---
 
+<<<<<<< HEAD
     <a href="/images/gallery/IMGP9128.jpg" title="Lander2018">
         <img src="/images/gallery/IMGP9128.jpg" alt="Lander2018">
+=======
+<link rel="stylesheet" href="css/blueimp-gallery.min.css">
+
+<!-- The Gallery as lightbox dialog, should be a child element of the document body -->
+<div id="blueimp-gallery" class="blueimp-gallery">
+    <div class="slides"></div>
+    <h3 class="title"></h3>
+    <a class="prev">‹</a>
+    <a class="next">›</a>
+    <a class="close">×</a>
+    <a class="play-pause"></a>
+    <ol class="indicator"></ol>
+</div>
+
+<div id="links">
+    <a href="/images/3953273590_704e3899d5_m.jpg" title="Banana">
+        <img src="/images/3953273590_704e3899d5_m.jpg" alt="Banana">
+>>>>>>> parent of d8695d5... Gallery Update
     </a>
-    <a href="/images/gallery/Yellowstone2017_13.jpg" title="SpearLabYNP">
-        <img src="/images/gallery/Yellowstone2017_13.jpg" alt="SpearLabYNP">
+    <a href="/images/3953273590_704e3899d5_m.jpg" title="Apple">
+        <img src="/images/3953273590_704e3899d5_m.jpg" alt="Apple">
     </a>
-    <a href="/images/gallery/37908919361_7caeaa3a3e_o.jpg" title="JohnMobe">
-        <img src="/images/gallery/37908919361_7caeaa3a3e_o.jpg" alt="JohnMoBE">
-    </a>
-    <a href="/images/gallery/37908861621_be41f9cf4e_o.jpg" title="MoBE2017">
-        <img src="/images/gallery/37908861621_be41f9cf4e_o.jpg" alt="MoBE2017">
-    </a>
-    <a href="/images/gallery/IMGP9451.jpg" title="MarrRMGS2018">
-        <img src="/images/gallery/IMGP9451.jpg" alt="MarrRMGS2018">
+    <a href="/images/3953273590_704e3899d5_m.jpg" title="Orange">
+        <img src="/images/3953273590_704e3899d5_m.jpg" alt="Orange">
     </a>
 </div>
 
