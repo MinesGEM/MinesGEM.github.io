@@ -7,19 +7,24 @@ redirect_from:
 ---
 <html>
 <head>
+
 <link rel="stylesheet" href="/css/blueimp-gallery.min.css">
+
 </head>
 
 <body>
 
 <!-- The Gallery as inline carousel, can be positioned anywhere on the page -->
+
 <div id="blueimp-gallery-carousel" class="blueimp-gallery blueimp-gallery-carousel">
+
     <div class="slides"></div>
     <h3 class="title"></h3>
     <a class="prev">‹</a>
     <a class="next">›</a>
     <a class="play-pause"></a>
     <ol class="indicator"></ol>
+
 </div>
 
 <div id="links">
@@ -41,6 +46,7 @@ redirect_from:
 </div>
 
 <script>
+
 blueimp.Gallery(
     document.getElementById('links').getElementsByTagName('a'),
     {
@@ -48,6 +54,7 @@ blueimp.Gallery(
         carousel: true
     }
 );
+
 </script>
 
 </body>
