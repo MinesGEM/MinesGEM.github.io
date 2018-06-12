@@ -8,16 +8,14 @@ redirect_from:
 
 <link rel="stylesheet" href="/css/blueimp-gallery.min.css">
 
-<!-- The Gallery as lightbox dialog, should be a child element of the document body -->
-<div id="blueimp-gallery" class="blueimp-gallery">
+<!-- The Gallery as inline carousel, can be positioned anywhere on the page -->
+<div id="blueimp-gallery-carousel" class="blueimp-gallery blueimp-gallery-carousel">
     <div class="slides"></div>
     <h3 class="title"></h3>
     <a class="prev">‹</a>
     <a class="next">›</a>
-    <a class="close">×</a>
     <a class="play-pause"></a>
     <ol class="indicator"></ol>
-    
 </div>
 
 <div id="links">
@@ -38,7 +36,15 @@ redirect_from:
     </a>
 </div>
 
-<script src="/js/blueimp-gallery.min.js"></script>
+<script>
+blueimp.Gallery(
+    document.getElementById('links').getElementsByTagName('a'),
+    {
+        container: '#blueimp-gallery-carousel',
+        carousel: true
+    }
+);
+</script>
 
 <script>
 document.getElementById('links').onclick = function (event) {
