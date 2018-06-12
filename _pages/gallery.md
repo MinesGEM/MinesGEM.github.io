@@ -11,7 +11,9 @@ redirect_from:
 </head>
 
 <body>
+
 <!-- The Gallery as lightbox dialog, should be a child element of the document body -->
+
 <div id="blueimp-gallery" class="blueimp-gallery">
     <div class="slides"></div>
     <h3 class="title"></h3>
@@ -20,10 +22,8 @@ redirect_from:
     <a class="close">×</a>
     <a class="play-pause"></a>
     <ol class="indicator"></ol>
-    
-</div>
 
-<div id="links">
+ <div id="links">
     <a href="/images/gallery/IMGP9128.jpg" title="Lander2018">
         <img src="/images/gallery/IMGP9128.jpg" alt="Lander2018">
     </a>
@@ -39,6 +39,8 @@ redirect_from:
     <a href="/images/gallery/IMGP9451.jpg" title="MarrRMGS2018">
         <img src="/images/gallery/IMGP9451.jpg" alt="MarrRMGS2018">
     </a>
+</div>
+    
 </div>
 
 <script src="/js/blueimp-gallery.min.js"></script>
