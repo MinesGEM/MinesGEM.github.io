@@ -24,5 +24,9 @@ permalink: /members/
 ### Spear Lab
 
 #### Postdocs
+Blake W. Stamps, Ph.D.
 
 #### Graduate Students
+Christopher Trivedi
+Emily Kraus
+Kalen Rasmussen
