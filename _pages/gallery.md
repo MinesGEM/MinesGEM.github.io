@@ -6,7 +6,7 @@ redirect_from:
   - /md/
 ---
 
-<link rel="stylesheet" href="css/blueimp-gallery.min.css">
+<link rel="stylesheet" href="/css/blueimp-gallery.min.css">
 
 <!-- The Gallery as lightbox dialog, should be a child element of the document body -->
 <div id="blueimp-gallery" class="blueimp-gallery">
@@ -17,6 +17,7 @@ redirect_from:
     <a class="close">×</a>
     <a class="play-pause"></a>
     <ol class="indicator"></ol>
+    
 </div>
 
 <div id="links">
@@ -37,4 +38,4 @@ redirect_from:
     </a>
 </div>
 
-<script src="js/blueimp-gallery.min.js"></script>
+<script src="/js/blueimp-gallery.min.js"></script>
