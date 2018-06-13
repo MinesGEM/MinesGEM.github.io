@@ -1,0 +1,13 @@
+---
+title: "Hypoaeration of activated sludge to reduce energy requirements at distributed reclaimed water plants: studies at bench and pilot scales"
+collection: publications
+permalink: /publication/11/22/16-Junko2
+date: 11/22/16
+venue: 'Environmental Science: Water Research &amp; Technology'
+paperurl: 'http://genomea.asm.org/content/6/9/e00085-18.full%3Fsid=a9daef25-a4e1-4242-b8ab-e0491c9d14e7'
+citation: 'D. Ramey, J. Munakata-Marr and T.Y. Cath'
+---
+
+<a href='http://genomea.asm.org/content/6/9/e00085-18.full%3Fsid=a9daef25-a4e1-4242-b8ab-e0491c9d14e7'>Download paper here</a>
+
+ D. Ramey, J. Munakata-Marr and T.Y. Cath

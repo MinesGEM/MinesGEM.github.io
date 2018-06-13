@@ -1,0 +1,13 @@
+---
+title: "Disturbance opens recruitment sites for bacterial colonization in activated sludge"
+collection: publications
+permalink: /publication/3/2/15-Junko6
+date: 3/2/15
+venue: 'Environmental Microbiology'
+paperurl: 'https://www.ncbi.nlm.nih.gov/pubmed/25727891'
+citation: 'D.C. Vuono, J. Munakata-Marr, J.R. Spear and J.E. Drewes'
+---
+
+<a href='https://www.ncbi.nlm.nih.gov/pubmed/25727891'>Download paper here</a>
+
+ D.C. Vuono, J. Munakata-Marr, J.R. Spear and J.E. Drewes

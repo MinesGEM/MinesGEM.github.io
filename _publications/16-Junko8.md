@@ -1,0 +1,13 @@
+---
+title: "Life-Cycle Assessment of Two Potable Water Reuse Technologies: MF/RO/UV-AOP Treatment and Hybrid Osmotic Membrane Bioreactors"
+collection: publications
+permalink: /publication/2/1/16-Junko8
+date: 2/1/16
+venue: 'Journal of Membrane Science'
+paperurl: 'https://www.researchgate.net/publication/293044852_Life-cycle_assessment_of_two_potable_water_reuse_technologies_MFROUV-AOP_treatment_and_hybrid_osmotic_membrane_bioreactors'
+citation: 'R.W. Holloway, L. Miller-Robbie, M. Patel, J.R. Stokes, J. Munakata-Marr, J. Dadakis and T.Y. Cath'
+---
+
+<a href='https://www.researchgate.net/publication/293044852_Life-cycle_assessment_of_two_potable_water_reuse_technologies_MFROUV-AOP_treatment_and_hybrid_osmotic_membrane_bioreactors'>Download paper here</a>
+
+ R.W. Holloway, L. Miller-Robbie, M. Patel, J.R. Stokes, J. Munakata-Marr, J. Dadakis and T.Y. Cath
