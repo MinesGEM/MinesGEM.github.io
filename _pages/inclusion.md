@@ -10,11 +10,11 @@ redirect_from:
 {% include base_path %}
 
 
-#Diversity & Inclusion
+# Diversity & Inclusion
 
 The GEM lab is dedicated to increasing diversity and inclusion within the STEM fields. Every lab member is expected to promote a climate of respect and support for all, regardless of ethnicity, race, gender, gender expression, sexual orientation, socio-economic status, age, disability, physical appearance, or religion. 
 
-##Code of Conduct
+## Code of Conduct
 
 To make clear what is expected, everyone in the lab is required to conform to the following Code of Conduct. This code of conduct applies to all lab spaces, both physical and online. and any lab events, trips, or other activities.
 
