@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Inclusion Statement"
+title: "Diversity and Inclusion"
 permalink: /inclusion/
 author_profile: true
 redirect_from:
@@ -10,7 +10,6 @@ redirect_from:
 {% include base_path %}
 
 
-# Diversity & Inclusion
 
 The GEM lab is dedicated to increasing diversity and inclusion within the STEM fields. Every lab member is expected to promote a climate of respect and support for all, regardless of ethnicity, race, gender, gender expression, sexual orientation, socio-economic status, age, disability, physical appearance, or religion. 
 
