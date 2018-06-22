@@ -9,7 +9,7 @@ permalink: /members/
 
 ## Current Lab Members
 
-### Marr Lab
+### Munakata-Marr Lab
 
 #### Postdocs
 
