@@ -38,4 +38,8 @@ Christopher Trivedi
 
 Emily Kraus
 
-Kalen Rasmussen
+##### Kalen Rasmussen
+
+![kalenthumb](/images/kras_thumb.jpg)
+
+Kalen is currently a masters student in the John Spear's lab.  He received his Bachelor's degree in Chemical and Biochemical Engineering from Mines as well. He has worked on a variety of projects ranging from the impacts of rare earth elements on the microbial communities in wastewater treatment plants with Dr. Munakata-Marr to the microbiota of sour style beers. Kalen is currently funded through the Enda Bailey Sussman Foundation and the National Park Service, focusing on laminated, lithified, silica based hot springs in Yellowstone National Park. By exploring the living microbial communities, geochemical cycles, and lithified biomat associated with these hot springs I hope to link the lithified past with the living present. 
