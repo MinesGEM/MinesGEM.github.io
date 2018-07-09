@@ -20,6 +20,6 @@ My name is Adam Brady. I’m a PhD student working with Dr Sharp. I received my 
 My current academic interests are: constructed wetlands, water/wastewater/produced water treatment, life cycle analysis, and sustainability.
 
 
-![AdamIntro2](/images/blog/Abrady_1.jpg)
+![AdamIntro2](/images/blog/Abrady_1.JPG)
 
-![AdamIntro3](/images/blog/Abrady_2.jpg)
+![AdamIntro3](/images/blog/Abrady_2.JPG)
