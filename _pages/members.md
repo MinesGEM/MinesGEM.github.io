@@ -26,6 +26,11 @@ permalink: /members/
 
 Laura is a a PhD student in the Sharp group with a B.S. and M.S. in Environmental Engineering from the Colorado School of Mines. Her research focuses on studying the impacts of mountain pine beetle infestation, specifically, the biogeochemical alterations associated with pine beetle induced tree mortality in Crested Butte, CO.  By characterizing the soil gas flux, porewater, and microbial community shifts associated with pine needle decay, Laura hopes to determine the implications for forest recovery and nutrient export that could aid in the prediction for shifts in ecosystem function across montane watersheds.
 
+##### Adam Brady
+![adamthumb](/images/Abrady_thumb.jpg)
+
+Adam is a PhD student working in the sharp group, with a M.S. in Environmental Science and Engineering from the Colorado School of Mines. Adam previously worked with the Cath group at the School of Mines. Adam is also an active duty Army officer attending Mines under the Advanced Civil Schooling program. Once he's completed his PhD, Adam will return to the United States Military Academy as an Assistant Professor in the Department of Geography and Environmental Engineering. Adam is interested in constructed wetlands, water/wastewater/produced water treatment, life cycle analysis, and sustainability.
+
 ### Spear Lab
 
 #### Postdocs
