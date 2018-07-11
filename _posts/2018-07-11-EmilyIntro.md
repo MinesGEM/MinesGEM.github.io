@@ -2,15 +2,14 @@
 layout: single
 title: 'Emily Kraus'
 header:
-  teaser: "/images/blog/ekraus_blog1.jpg"
+  teaser: "/images/blog/ekraus_blog1.JPG"
 categories: 
   - Introductions
 tags:
   - spearlab
   - student
 ---
-
-!(/images/blog/ekraus_blog1.jpg)
+![EmilyIntro](/images/blog/ekraus_blog1.JPG)
 
 ## A blurb about me
 
