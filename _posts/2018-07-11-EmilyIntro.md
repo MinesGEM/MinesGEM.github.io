@@ -1,14 +1,15 @@
 ---
 layout: single
 title: 'Emily Kraus'
-header:
-  teaser: "/images/blog/ekraus_blog1.JPG"
 categories: 
   - Introductions
 tags:
   - spearlab
   - student
 ---
+
+Next in our round of introductions: grad student Emily Kraus.
+
 ![EmilyIntro](/images/blog/ekraus_blog1.JPG)
 
 ## A blurb about me
