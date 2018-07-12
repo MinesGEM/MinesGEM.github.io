@@ -13,7 +13,6 @@ permalink: /members/
 
 #### Olivia Salmon
 
-
 ## Sharp Lab
 
 ### Postdoctoral Researchers

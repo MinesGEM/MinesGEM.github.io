@@ -28,7 +28,7 @@ Microbial communities are inherently dynamic. Understanding and ultimately contr
 Current research activities include evaluation of the compatibility of reductive dechlorination activity with polymers used for flow control, microbial communities associated with methane generation from coal, and the coordinated use of molecular biology and chemical analyses for microbial source tracking. I am also involved in educational research projects to develop new curricula related to humanitarian engineering and to broaden participation in engineering disciplines.
 
 
-### Josh O. Sharp
+### Jonathan O. Sharp
 ![JoshPic](https://www.mines.edu/faculty/wp-content/uploads/sites/41/2017/04/jonathan-sharp.jpg)
 
 With a foundation in environmental engineering microbiology, we gravitate toward interdisciplinary questions that integrate facets of microbiology, engineering, geochemistry and hydrology to enhance our understanding of the natural and built environment. Details about group members and collaborations are provided in the link above. Our research focuses on the ramifications of biological processes as they relate to water quality and reuse in a variety of projects that include:
