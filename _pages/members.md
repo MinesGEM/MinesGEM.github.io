@@ -5,13 +5,9 @@ permalink: /members/
 ---
 
 
-# Check Back Soon- Updating This Page! 
-
 ## Current Lab Members
 
 ### Munakata-Marr Lab
-
-#### Postdocs
 
 #### Graduate Students
 
@@ -29,19 +25,32 @@ Laura is a a PhD student in the Sharp group with a B.S. and M.S. in Environmenta
 ##### Adam Brady
 ![adamthumb](/images/Abrady_thumb.jpg)
 
-Adam is a PhD student working in the sharp group, with a M.S. in Environmental Science and Engineering from the Colorado School of Mines. Adam previously worked with the Cath group at the School of Mines. Adam is also an active duty Army officer attending Mines under the Advanced Civil Schooling program. Once he's completed his PhD, Adam will return to the United States Military Academy as an Assistant Professor in the Department of Geography and Environmental Engineering. Adam is interested in constructed wetlands, water/wastewater/produced water treatment, life cycle analysis, and sustainability.
+Adam is a PhD student working in the Sharp group, with a M.S. in Environmental Science and Engineering from the Colorado School of Mines. Adam previously worked with the Cath group at the School of Mines. Adam is also an active duty Army officer attending Mines under the Advanced Civil Schooling program. Once he's completed his PhD, Adam will return to the United States Military Academy as an Assistant Professor in the Department of Geography and Environmental Engineering. Adam is interested in constructed wetlands, water/wastewater/produced water treatment, life cycle analysis, and sustainability.
 
 ### Spear Lab
 
 #### Postdocs
+
+![blakethumb](/images/bstamps_thumb.jpg)
+
 Blake W. Stamps, Ph.D.
 
 Blake Stamps is a Sloan Postdoctoral Fellow at the Colorado School of Mines. He received his bachelor’s degree and Ph.D. from the University of Oklahoma in 2011 and 2016, both in Microbiology. His doctoral research investigated the role of bacteria and fungi in fouling and corrosion of fuel tanks storing a biodiesel blend used by the US Air Force. Since moving to the Colorado School of Mines, Dr. Stamps has explored the microbial community of the Orange County Water District Advanced Water Processing Facility and is currently focused on the risk of corrosion and biodeterioration caused by bacteria and fungi isolated from the International Space Station.
 
 #### Graduate Students
-Christopher Trivedi
 
-Emily Kraus
+##### Christopher Trivedi
+
+![christhumb](/images/ctrivedi_thumb.jpg)
+
+Chris is a polar and geomicrobiologist with special interests in astro- and extreme microbiology. His graduate research has focused on characterizing a low-temperature sulfidic spring system, Borup Fiord Pass, in the Canadian High Arctic. Borup is known as one of the best terrestrial analogs for studying conditions that might be present on the Jovian moon Europa. Chris work primarily uses genomic techniques to understand how microorganisms play a role in sulfur cycling under adverse conditions in such a cold environment. In the near future Chris’ work will be transition to a more culture-centered research focus where he will be studying glacial algae and their impact on melt rates.
+
+##### Emily Kraus
+
+![emilythumb](/images/ekraus_thumb.jpg)
+
+Emily is a Ph.D. student in John Spear's lab and is also associated with the NASA Astrobiology Institute’s Rock-Powered Life group. For her dissertation, she is using field and lab work with ‘omics tools to characterize the metabolic capability, population dynamics, and identification of microbial life in the hyperalkaline fluids and solid rock of the serpentinizing subsurface in the Samail ophiolite of Oman. Emily also co-organized the first and second annual Rocky Mountain Geobiology Symposium (RMGS) in 2017/2018. Emily attended the International Geobiology Course in 2016, and before that received her B.S. in Ecology and Evolutionary Biology from the University of Rochester where she worked with with John Tarduno on magnetotactic bacteria/magnetosomes.
+
 
 ##### Kalen Rasmussen
 
