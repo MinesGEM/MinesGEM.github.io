@@ -13,6 +13,10 @@ permalink: /members/
 
 #### Olivia Salmon
 
+![oliviathumb](/images/osalmon_thumb.jpg)
+
+Olivia is a master's student in Dr. Munakata-Marr's lab and is researching impacts of rare earth elements on the microbial communities of wastewater treatment systems. Olivia has a prior M.S. in Human Dimensions of Ecosystem Science and Management from Utah State University and has worked most recently in environmental consulting, with a focus on environmental assessments, subsurface investigations, landfill gas and groundwater monitoring, and regulatory permitting and compliance guidance for industrial facilities.
+
 ## Sharp Lab
 
 ### Postdoctoral Researchers
@@ -30,6 +34,12 @@ Kristin is a Research Associate in the Sharp lab with interests at the interface
 ![laurathumb](/images/lleonard_thumb.jpg)
 
 Laura is a a PhD student in the Sharp group with a B.S. and M.S. in Environmental Engineering from the Colorado School of Mines. Her research focuses on studying the impacts of mountain pine beetle infestation, specifically, the biogeochemical alterations associated with pine beetle induced tree mortality in Crested Butte, CO.  By characterizing the soil gas flux, porewater, and microbial community shifts associated with pine needle decay, Laura hopes to determine the implications for forest recovery and nutrient export that could aid in the prediction for shifts in ecosystem function across montane watersheds.
+
+#### Michael Vega
+
+![mikethumb](/images/mavega_thumb.jpg)
+
+Michael is a Hydrology PhD student working in the Sharp group. He completed his BS in geochemistry at Kansas State University, with a particular interest in metal cycling in groundwater. Michael focuses on nitrogen biogeochemistry in a wetland biofilm that treats eutrophic river water.  Specifically, Michael is looking at how nitrogen bioremediation is coupled with other elemental cycles (i.e., carbon, metals), and how these combined cycles can promote microbial syntrophy. 
 
 #### Adam Brady
 ![adamthumb](/images/Abrady_thumb.jpg)
