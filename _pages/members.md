@@ -52,9 +52,7 @@ Adam is a PhD student working in the Sharp group, with a M.S. in Environmental S
 
 ### Blake W. Stamps, Ph.D.
 
-![blakethumb](/images/bstamps_thumb.jpg)
-
-Blake Stamps is a Sloan Postdoctoral Fellow at the Colorado School of Mines. He received his bachelor’s degree and Ph.D. from the University of Oklahoma in 2011 and 2016, both in Microbiology. His doctoral research investigated the role of bacteria and fungi in fouling and corrosion of fuel tanks storing a biodiesel blend used by the US Air Force. Since moving to the Colorado School of Mines, Dr. Stamps has explored the microbial community of the Orange County Water District Advanced Water Processing Facility and is currently focused on the risk of corrosion and biodeterioration caused by bacteria and fungi isolated from the International Space Station.
+![blakethumb](/images/bstamps_thumb.jpg){: .align-left} Blake Stamps is a Sloan Postdoctoral Fellow at the Colorado School of Mines. He received his bachelor’s degree and Ph.D. from the University of Oklahoma in 2011 and 2016, both in Microbiology. His doctoral research investigated the role of bacteria and fungi in fouling and corrosion of fuel tanks storing a biodiesel blend used by the US Air Force. Since moving to the Colorado School of Mines, Dr. Stamps has explored the microbial community of the Orange County Water District Advanced Water Processing Facility and is currently focused on the risk of corrosion and biodeterioration caused by bacteria and fungi isolated from the International Space Station.
 
 
 ## Graduate Students
@@ -66,27 +64,24 @@ Blake Stamps is a Sloan Postdoctoral Fellow at the Colorado School of Mines. He 
 
 ### Kalen Rasmussen
 
-![kalenthumb](/images/kras_thumb.jpg)
-
-Kalen is currently a masters student in John Spear's lab.  He received his Bachelor's degree in Chemical and Biochemical Engineering from Mines as well. He has worked on a variety of projects ranging from the impacts of rare earth elements on the microbial communities in wastewater treatment plants with Dr. Munakata-Marr to the microbiota of sour style beers. Kalen is currently funded through the Enda Bailey Sussman Foundation and the National Park Service, focusing on laminated, lithified, silica based hot springs in Yellowstone National Park. By exploring the living microbial communities, geochemical cycles, and lithified biomat associated with these hot springs I hope to link the lithified past with the living present. 
+![kalenthumb](/images/kras_thumb.jpg){: .align-left} Kalen is currently a masters student in John Spear's lab.  He received his Bachelor's degree in Chemical and Biochemical Engineering from Mines as well. He has worked on a variety of projects ranging from the impacts of rare earth elements on the microbial communities in wastewater treatment plants with Dr. Munakata-Marr to the microbiota of sour style beers. Kalen is currently funded through the Enda Bailey Sussman Foundation and the National Park Service, focusing on laminated, lithified, silica based hot springs in Yellowstone National Park. By exploring the living microbial communities, geochemical cycles, and lithified biomat associated with these hot springs I hope to link the lithified past with the living present. 
 
 
 ### Alex Honeyman
 
-![alexthumb](/images/Honeyman_GEM_website2.jpg)
+![alexthumb](/images/Honeyman_GEM_website2.jpg){: .align-left} Alex has worked part-time as a technician in the Spear Lab for two years, while filling his other hours as a Firefighter-EMT in the Rocky Mountains. Beginning Fall, 2018, Alex entered the Ph.D. program at the School of Mines with Dr. John Spear. Alex has been involved in a project assessing the microbial community structure of produced water (fracking) treatment systems and has also led a number of different projects: on microbial community composition of water-rock equilibrated communities in a mine, on the geographic dependence of fresh snowfall microbiology and chemistry leveraging remote sensing storm-track analyses, and on the role of microbe-soil dynamics in ecological response to high-severity forest fire burns in Colorado. Overall, Alex aims to synthesize high-throughput DNA sequencing / analysis techniques with remote sensing and big data.
 
-Alex has worked part-time as a technician in the Spear Lab for two years, while filling his other hours as a Firefighter-EMT in the Rocky Mountains. Beginning Fall, 2018, Alex entered the Ph.D. program at the School of Mines with Dr. John Spear. Alex has been involved in a project assessing the microbial community structure of produced water (fracking) treatment systems and has also led a number of different projects: on microbial community composition of water-rock equilibrated communities in a mine, on the geographic dependence of fresh snowfall microbiology and chemistry leveraging remote sensing storm-track analyses, and on the role of microbe-soil dynamics in ecological response to high-severity forest fire burns in Colorado. Overall, Alex aims to synthesize high-throughput DNA sequencing / analysis techniques with remote sensing and big data.
 
 ### Patrick Thieringer
+
+
 
 
 # GEM Lab Alumni:
 
 ### Christopher Trivedi, Ph.D.
 
-![christhumb](/images/ctrivedi_thumb.jpg)
-
-Chris is a polar and geomicrobiologist with special interests in astro- and extreme microbiology. His graduate research focused on characterizing a low-temperature sulfidic spring system, Borup Fiord Pass, in the Canadian High Arctic. Borup is known as one of the best terrestrial analogs for studying conditions that might be present on the Jovian moon Europa. Chris' work primarily uses genomic techniques to understand how microorganisms play a role in sulfur cycling under adverse conditions in such a cold environment. Chris’ postdoctoral work will transition to a more culture-centered research focus where he will be studying glacial algae and their impact on melt rates.
+![christhumb](/images/ctrivedi_thumb.jpg){: .align-left} Chris is a polar and geomicrobiologist with special interests in astro- and extreme microbiology. His graduate research focused on characterizing a low-temperature sulfidic spring system, Borup Fiord Pass, in the Canadian High Arctic. Borup is known as one of the best terrestrial analogs for studying conditions that might be present on the Jovian moon Europa. Chris' work primarily uses genomic techniques to understand how microorganisms play a role in sulfur cycling under adverse conditions in such a cold environment. Chris’ postdoctoral work will transition to a more culture-centered research focus where he will be studying glacial algae and their impact on melt rates.
 
 ### Zack Jones, Ph.D.
 ### Tess Weathers, Ph.D.
