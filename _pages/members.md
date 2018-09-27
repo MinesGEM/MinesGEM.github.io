@@ -4,7 +4,7 @@ layout: archive
 permalink: /members/
 ---
 
-
+<br>
 
 # Munakata-Marr Lab
 
@@ -27,19 +27,18 @@ permalink: /members/
 
 ### Laura Leonard
 
-![laurathumb](/images/lleonard_thumb.jpg){: .align-left} Laura is a a PhD student in the Sharp group with a B.S. and M.S. in Environmental Engineering from the Colorado School of Mines. Her research focuses on studying the impacts of mountain pine beetle infestation, specifically, the biogeochemical alterations associated with pine beetle induced tree mortality in Crested Butte, CO.  By characterizing the soil gas flux, porewater, and microbial community shifts associated with pine needle decay, Laura hopes to determine the implications for forest recovery and nutrient export that could aid in the prediction for shifts in ecosystem function across montane watersheds.
+![laurathumb](/images/lleonard_thumb.jpg){: .align-right} Laura is a a PhD student in the Sharp group with a B.S. and M.S. in Environmental Engineering from the Colorado School of Mines. Her research focuses on studying the impacts of mountain pine beetle infestation, specifically, the biogeochemical alterations associated with pine beetle induced tree mortality in Crested Butte, CO.  By characterizing the soil gas flux, porewater, and microbial community shifts associated with pine needle decay, Laura hopes to determine the implications for forest recovery and nutrient export that could aid in the prediction for shifts in ecosystem function across montane watersheds.
 
-
-
+<br>
 
 ### Michael Vega
 
-![mikethumb](/images/mavega_thumb.jpg){: .align-right} Michael is a Hydrology PhD student working in the Sharp group. He completed his BS in geochemistry at Kansas State University, with a particular interest in metal cycling in groundwater. Michael focuses on nitrogen biogeochemistry in a wetland biofilm that treats eutrophic river water.  Specifically, Michael is looking at how nitrogen bioremediation is coupled with other elemental cycles (i.e., carbon, metals), and how these combined cycles can promote microbial syntrophy. 
+![mikethumb](/images/mavega_thumb.jpg){: .align-left} Michael is a Hydrology PhD student working in the Sharp group. He completed his BS in geochemistry at Kansas State University, with a particular interest in metal cycling in groundwater. Michael focuses on nitrogen biogeochemistry in a wetland biofilm that treats eutrophic river water.  Specifically, Michael is looking at how nitrogen bioremediation is coupled with other elemental cycles (i.e., carbon, metals), and how these combined cycles can promote microbial syntrophy. 
 
-
+<br>
 
 ### Adam Brady
-![adamthumb](/images/Abrady_thumb.jpg){: .align-left} Adam is a PhD student working in the Sharp group, with a M.S. in Environmental Science and Engineering from the Colorado School of Mines. Adam previously worked with the Cath group at the School of Mines. Adam is also an active duty Army officer attending Mines under the Advanced Civil Schooling program. Once he's completed his PhD, Adam will return to the United States Military Academy as an Assistant Professor in the Department of Geography and Environmental Engineering. Adam is interested in constructed wetlands, water/wastewater/produced water treatment, life cycle analysis, and sustainability.
+![adamthumb](/images/Abrady_thumb.jpg){: .align-right} Adam is a PhD student working in the Sharp group, with a M.S. in Environmental Science and Engineering from the Colorado School of Mines. Adam previously worked with the Cath group at the School of Mines. Adam is also an active duty Army officer attending Mines under the Advanced Civil Schooling program. Once he's completed his PhD, Adam will return to the United States Military Academy as an Assistant Professor in the Department of Geography and Environmental Engineering. Adam is interested in constructed wetlands, water/wastewater/produced water treatment, life cycle analysis, and sustainability.
 
 ***
 
@@ -58,7 +57,7 @@ permalink: /members/
 
 ### Emily Kraus
 
-![emilythumb](/images/ekraus_thumb.jpg){: .align-left} Emily is a Ph.D. student associated with the NASA Astrobiology Institute’s Rock-Powered Life group. For her dissertation, she is using field and lab work with ‘omics tools to characterize the metabolic capability, population dynamics, and identification of microbial life in the hyperalkaline fluids and solid rock of the serpentinizing subsurface in the Samail ophiolite of Oman. Emily also co-organized the first and second annual Rocky Mountain Geobiology Symposium (RMGS) in 2017/2018. and attended the International Geobiology Course in 2016. Prior to joining the GEM lab, Emily received her B.S. in Ecology and Evolutionary Biology from the University of Rochester and worked with with John Tarduno on magnetotactic bacteria magnetosomes.
+![emilythumb](/images/ekraus_thumb.jpg){: .align-right} Emily is a Ph.D. student associated with the NASA Astrobiology Institute’s Rock-Powered Life group. For her dissertation, she is using field and lab work with ‘omics tools to characterize the metabolic capability, population dynamics, and identification of microbial life in the hyperalkaline fluids and solid rock of the serpentinizing subsurface in the Samail ophiolite of Oman. Emily also co-organized the first and second annual Rocky Mountain Geobiology Symposium (RMGS) in 2017/2018. and attended the International Geobiology Course in 2016. Prior to joining the GEM lab, Emily received her B.S. in Ecology and Evolutionary Biology from the University of Rochester and worked with with John Tarduno on magnetotactic bacteria magnetosomes.
 
 <br>
 
@@ -71,9 +70,9 @@ permalink: /members/
 
 ### Alex Honeyman
 
-![alexthumb](/images/Honeyman_GEM_website2.jpg){: .align-left} Alex has worked part-time as a technician in the Spear Lab for two years, while filling his other hours as a Firefighter-EMT in the Rocky Mountains. Beginning Fall, 2018, Alex entered the Ph.D. program at the School of Mines with Dr. John Spear. Alex has been involved in a project assessing the microbial community structure of produced water (fracking) treatment systems and has also led a number of different projects: on microbial community composition of water-rock equilibrated communities in a mine, on the geographic dependence of fresh snowfall microbiology and chemistry leveraging remote sensing storm-track analyses, and on the role of microbe-soil dynamics in ecological response to high-severity forest fire burns in Colorado. Overall, Alex aims to synthesize high-throughput DNA sequencing / analysis techniques with remote sensing and big data.
+![alexthumb](/images/Honeyman_GEM_website2.jpg){: .align-right} Alex has worked part-time as a technician in the Spear Lab for two years, while filling his other hours as a Firefighter-EMT in the Rocky Mountains. Beginning Fall, 2018, Alex entered the Ph.D. program at the School of Mines with Dr. John Spear. Alex has been involved in a project assessing the microbial community structure of produced water (fracking) treatment systems and has also led a number of different projects: on microbial community composition of water-rock equilibrated communities in a mine, on the geographic dependence of fresh snowfall microbiology and chemistry leveraging remote sensing storm-track analyses, and on the role of microbe-soil dynamics in ecological response to high-severity forest fire burns in Colorado. Overall, Alex aims to synthesize high-throughput DNA sequencing / analysis techniques with remote sensing and big data.
 
-
+<br>
 
 ### Patrick Thieringer
 
@@ -87,6 +86,7 @@ permalink: /members/
 
 ![christhumb](/images/ctrivedi_thumb.jpg){: .align-left} Chris is a polar and geomicrobiologist with special interests in astro- and extreme microbiology. His graduate research focused on characterizing a low-temperature sulfidic spring system, Borup Fiord Pass, in the Canadian High Arctic. Borup is known as one of the best terrestrial analogs for studying conditions that might be present on the Jovian moon Europa. Chris' work primarily uses genomic techniques to understand how microorganisms play a role in sulfur cycling under adverse conditions in such a cold environment. Chris’ postdoctoral work will transition to a more culture-centered research focus where he will be studying glacial algae and their impact on melt rates.
 
+<br>
 
 ### Zack Jones, Ph.D.
 ### Tess Weathers, Ph.D.
