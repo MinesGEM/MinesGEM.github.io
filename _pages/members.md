@@ -37,6 +37,7 @@ permalink: /members/
 
 <br>
 
+
 ### Adam Brady
 ![adamthumb](/images/Abrady_thumb.jpg){: .align-right} Adam is a PhD student working in the Sharp group, with a M.S. in Environmental Science and Engineering from the Colorado School of Mines. Adam previously worked with the Cath group at the School of Mines. Adam is also an active duty Army officer attending Mines under the Advanced Civil Schooling program. Once he's completed his PhD, Adam will return to the United States Military Academy as an Assistant Professor in the Department of Geography and Environmental Engineering. Adam is interested in constructed wetlands, water/wastewater/produced water treatment, life cycle analysis, and sustainability.
 
@@ -73,10 +74,9 @@ permalink: /members/
 ![alexthumb](/images/Honeyman_GEM_website2.jpg){: .align-right} Alex has worked part-time as a technician in the Spear Lab for two years, while filling his other hours as a Firefighter-EMT in the Rocky Mountains. Beginning Fall, 2018, Alex entered the Ph.D. program at the School of Mines with Dr. John Spear. Alex has been involved in a project assessing the microbial community structure of produced water (fracking) treatment systems and has also led a number of different projects: on microbial community composition of water-rock equilibrated communities in a mine, on the geographic dependence of fresh snowfall microbiology and chemistry leveraging remote sensing storm-track analyses, and on the role of microbe-soil dynamics in ecological response to high-severity forest fire burns in Colorado. Overall, Alex aims to synthesize high-throughput DNA sequencing / analysis techniques with remote sensing and big data.
 
 <br>
-
 ### Patrick Thieringer
 
-
+<br>
 ***
 
 
