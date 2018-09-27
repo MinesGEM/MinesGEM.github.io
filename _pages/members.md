@@ -61,9 +61,7 @@ Blake Stamps is a Sloan Postdoctoral Fellow at the Colorado School of Mines. He 
 
 ### Emily Kraus
 
-![emilythumb](/images/ekraus_thumb.jpg)
-
-Emily is a Ph.D. student associated with the NASA Astrobiology Institute’s Rock-Powered Life group. For her dissertation, she is using field and lab work with ‘omics tools to characterize the metabolic capability, population dynamics, and identification of microbial life in the hyperalkaline fluids and solid rock of the serpentinizing subsurface in the Samail ophiolite of Oman. Emily also co-organized the first and second annual Rocky Mountain Geobiology Symposium (RMGS) in 2017/2018. and attended the International Geobiology Course in 2016. Prior to joining the GEM lab, Emily received her B.S. in Ecology and Evolutionary Biology from the University of Rochester and worked with with John Tarduno on magnetotactic bacteria magnetosomes.
+![emilythumb](/images/ekraus_thumb.jpg){: .align-left} Emily is a Ph.D. student associated with the NASA Astrobiology Institute’s Rock-Powered Life group. For her dissertation, she is using field and lab work with ‘omics tools to characterize the metabolic capability, population dynamics, and identification of microbial life in the hyperalkaline fluids and solid rock of the serpentinizing subsurface in the Samail ophiolite of Oman. Emily also co-organized the first and second annual Rocky Mountain Geobiology Symposium (RMGS) in 2017/2018. and attended the International Geobiology Course in 2016. Prior to joining the GEM lab, Emily received her B.S. in Ecology and Evolutionary Biology from the University of Rochester and worked with with John Tarduno on magnetotactic bacteria magnetosomes.
 
 
 ### Kalen Rasmussen
