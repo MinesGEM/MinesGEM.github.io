@@ -31,6 +31,7 @@ permalink: /members/
 
 
 
+
 ### Michael Vega
 
 ![mikethumb](/images/mavega_thumb.jpg){: .align-right} Michael is a Hydrology PhD student working in the Sharp group. He completed his BS in geochemistry at Kansas State University, with a particular interest in metal cycling in groundwater. Michael focuses on nitrogen biogeochemistry in a wetland biofilm that treats eutrophic river water.  Specifically, Michael is looking at how nitrogen bioremediation is coupled with other elemental cycles (i.e., carbon, metals), and how these combined cycles can promote microbial syntrophy. 
@@ -59,7 +60,7 @@ permalink: /members/
 
 ![emilythumb](/images/ekraus_thumb.jpg){: .align-left} Emily is a Ph.D. student associated with the NASA Astrobiology Institute’s Rock-Powered Life group. For her dissertation, she is using field and lab work with ‘omics tools to characterize the metabolic capability, population dynamics, and identification of microbial life in the hyperalkaline fluids and solid rock of the serpentinizing subsurface in the Samail ophiolite of Oman. Emily also co-organized the first and second annual Rocky Mountain Geobiology Symposium (RMGS) in 2017/2018. and attended the International Geobiology Course in 2016. Prior to joining the GEM lab, Emily received her B.S. in Ecology and Evolutionary Biology from the University of Rochester and worked with with John Tarduno on magnetotactic bacteria magnetosomes.
 
-
+<br>
 
 
 ### Kalen Rasmussen
