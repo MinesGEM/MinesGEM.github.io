@@ -38,8 +38,9 @@ permalink: /members/
 <br>
 
 
+
 ### Adam Brady
-![adamthumb](/images/Abrady_thumb.jpg){: .align-right} Adam is a PhD student working in the Sharp group, with a M.S. in Environmental Science and Engineering from the Colorado School of Mines. Adam previously worked with the Cath group at the School of Mines. Adam is also an active duty Army officer attending Mines under the Advanced Civil Schooling program. Once he's completed his PhD, Adam will return to the United States Military Academy as an Assistant Professor in the Department of Geography and Environmental Engineering. Adam is interested in constructed wetlands, water/wastewater/produced water treatment, life cycle analysis, and sustainability.
+![adamthumb](/images/Abrady_thumb.jpg){: .align-right} Adam is a PhD student working in the Sharp group. He previously received his M.S. in Environmental Science and Engineering working with the Cath group at the Colorado School of Mines. An active duty Army officer, upon completion of his PhD Adam will return to the United States Military Academy as an Assistant Professor in the Department of Geography and Environmental Engineering. Adam is interested in constructed wetlands, water/wastewater/produced water treatment, life cycle analysis, and sustainability.
 
 ***
 
