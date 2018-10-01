@@ -75,6 +75,7 @@ permalink: /members/
 
 <br>
 ### Patrick Thieringer
+![patrickthumb](/images/pthie_thumb.jpg){: .align-left} Patrick is a Ph.D. student in John Spear’s lab with a BA in Geoscience from Skidmore College. His research interests include identifying the metabolic pathways that support microbial growth in the subsurface low temperature serpentinized environment, and the geochemistry significant in influencing these processes. Patrick is connected with the NASA Astrobiology Institute’s Rock Powered Life group, which has a field site researching the water-rock interactions and microbial life in the Samail Ophiolite in Oman. He is interested in combining techniques of genomic analysis with lipid extraction and analysis to better develop biomarker detection.
 
 <br>
 ***
