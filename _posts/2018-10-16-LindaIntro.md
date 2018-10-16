@@ -9,7 +9,7 @@ tags:
 
 Introducing Spear Lab volunteer researcher Linda Toberer.
 
-![LindaIntro](/images/blog/Linda_bio.JPG){: .align-center}
+![LindaIntro](/images/blog/Linda_bio.jpg){: .align-center}
 
 ## About me
 
